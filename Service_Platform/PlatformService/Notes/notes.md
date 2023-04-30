@@ -1,5 +1,4 @@
 # Notes from the course on Microservices
-## Url: https://www.youtube.com/watch?v=DgVjEo3OGBI
 
 ## MS features
 1. Small (small teams)
